@@ -1,0 +1,25 @@
+body{
+    background-color: #6d629d;
+}
+form{
+    border: solid 54px #ADD8E6;
+    margin-top: 213px;
+    width: 400px;
+    margin-left: 29.7%;
+
+}
+.Loginns button{
+    height: 24px;
+    /* color: ; */
+}
+input[type=text],input[type=username]{
+    width: 100%;
+    
+    height: 34px;
+    border-inline: #C2586C;
+    /* padding: 3%; */
+}
+.label input[type=Username]{
+  margin-top: 247%;
+
+}
